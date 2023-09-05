@@ -2,7 +2,11 @@
 .container {
     width: 100%;
     height: 100%;
-    background-image: url("./Presentación/3.png");
-    background-size: cover;
+    background-image: url(./Presentación/3.png);
+    b
+  }
+  img{
+    width: max-content;
+    height: max-content;
   }
   
